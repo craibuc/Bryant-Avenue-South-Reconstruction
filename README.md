@@ -1,4 +1,4 @@
-# Bryant Avenue Sout Street Reconstruction []
+# Bryant Avenue Sout Reconstruction
 
 ## Enhancements
 
