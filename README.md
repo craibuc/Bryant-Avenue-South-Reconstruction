@@ -10,6 +10,7 @@ Eliminate the “drag racing” layout in favor of a one-way, serpentine design 
 - Install attractive, low-wattage, low-lumen, lighting that doesn’t affect peoples ability to sleep and doesn’t add to light pollution
 - Add a bicycle path
 - Add a [cistern](https://en.wikipedia.org/wiki/Cistern) at every corner to filter and retain stormwater to help decrease the pollution of Lake Harriet 
+- Speed-monitoring sensors embedded in the pavement or in the lighting to allow for real-time monitoring of traffic volume and speed, with a publically-accessible website.
 
 ## Topics
 
