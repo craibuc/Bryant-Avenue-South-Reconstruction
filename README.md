@@ -2,19 +2,27 @@
 
 Eliminate the “drag racing” layout in favor of a one-way, serpentine design (think Lombard Street in San Francisco).
 
+The new street should:
+
+- priorities the needs of the street's current residents over transient needs (e.g. transportation)
+- reduce the volume and speed of traffic
+- maximize asthetics
+- minimize pollution
+
 ## Features
-- Reduce the volume and speed of traffic
-- Reduce the width of streets and sidewalks
-- Add a grassy strip of land between the street and the street (AKA a boulevard)
-- Add pollinator-friendly planting to the "boulevard"
-- Install attractive, low-wattage, low-lumen, lighting that doesn’t affect peoples ability to sleep and doesn’t add to light pollution
-- Add a bicycle path
-- Add a [cistern](https://en.wikipedia.org/wiki/Cistern) at every corner to filter and retain stormwater to help decrease the pollution of Lake Harriet 
-- Speed-monitoring sensors embedded in the pavement or in the lighting to allow for real-time monitoring of traffic volume and speed, with a publically-accessible website.
 
-## Topics
+### Effective lighting
+Install attractive, low-wattage, low-lumen, lighting that doesn’t affect peoples ability to sleep and doesn’t add to light pollution.  Ensure that the lighting __only__ illuminates the street--shields MUST be installed to prevent lighting from illuminating peoples' property.  The frequency of lighting installations should be the same as the adjacent streets (Aldrich and Colfrax).
 
-### Sidewalks
+At each corner, use motion sensors to control the lighting.  Add a button, similar to what is used for crosswalks, to allow pedestrians to control the lighting.
+
+### Boulevards
+Add a vegetative strip of land between the street and the street (AKA a boulevard).  The boulevard should be planted with Minnesota-native, pollinator-friendly planting.
+
+### Narrow street
+Reduce the width of the street to help decrease the speed of traffic.
+
+### Narrow sidewalks
 
 The width of the sidewalks should comply with the requirements of the *current*, [Americans with Disabilities Act](https://www.ada.gov), rather than trying to anticipate what the law will be.
 
@@ -31,8 +39,15 @@ While the City of Minneapolis has said that speed bumps cannot be added to a bus
 ![Douglas Avenue](./images/Douglas_Avenue.png?raw=true)
 
 ### Bicycle path
+Add a dedicate bicycle path so that individuals are not used as de facto, traffic calming measures.  __Do not use the UGLY, whilte, plastic pylons for this purpose.__
 
 ![Bicycle path](./images/Bicycle_Path.jpg?raw=true)
+
+### Real-time monitoring
+Install speed-monitoring sensors embedded in the pavement or in the lighting to allow for real-time monitoring of traffic volume and speed, with a publically-accessible website.  Capture photographs of drivers, including law-enforcement vehicles, exceeding two standard deviations of the speed limit and the mean velocity and post to website for additional analysis and public shaming.
+
+### Stormwater cisterns
+Add a [cistern](https://en.wikipedia.org/wiki/Cistern) at every corner to filter and retain stormwater to help decrease the pollution of Lake Harriet.
 
 # References
 
