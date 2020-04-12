@@ -19,7 +19,7 @@ The width of the sidewalks should comply with the requirements of the *current*,
 
 ### "Serpentine"
 
-![Chicane](./Chicane.jpg?raw=true)
+![Chicane](./images/Chicane.jpg?raw=true)
 
 ### Speed bumps
 
@@ -27,7 +27,7 @@ Speed bumps, two per block, should be added to each block of Bryant Avenue South
 
 While the City of Minneapolis has said that speed bumps cannot be added to a bus line, one only needs to look at [Douglas Avenue](https://duckduckgo.com/?t=ffnt&q=douglas+avenue+minneapolis&ia=maps&iaxm=maps), which hosts [bus route #25](https://www.metrotransit.org/route/25):
 
-
+![Douglas Avenue](./images/Douglas_Avenue.jpg?raw=true)
 
 # References
 
