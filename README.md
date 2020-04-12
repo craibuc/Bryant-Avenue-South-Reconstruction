@@ -1,4 +1,4 @@
-# Bryant Avenue Sout Reconstruction
+# Bryant Avenue South Reconstruction
 
 Eliminate the “drag racing” layout in favor of a one-way, serpentine design (think Lombard Street in San Francisco).
 
@@ -31,6 +31,7 @@ While the City of Minneapolis has said that speed bumps cannot be added to a bus
 
 ### Bicycle path
 
+![Bicycle path](./images/Bicycle_Path.jpg?raw=true)
 
 # References
 
